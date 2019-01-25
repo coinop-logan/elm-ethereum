@@ -1,9 +1,9 @@
 {
     "type": "package",
-    "name": "cmditch/elm-ethereum",
+    "name": "coinop-logan/elm-ethereum",
     "summary": "feed the tree some ether.",
     "license": "MIT",
-    "version": "2.0.0",
+    "version": "1.0.0",
     "exposed-modules": [
         "Eth",
         "Eth.Decode",
